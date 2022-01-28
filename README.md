@@ -1,7 +1,7 @@
 ## Oiee! Eu sou a Vanessa Zanotti
-- 💼 Atualmente sou Analista de suporte
-- 📚 Estudante de Análise e Desenvolvimento de sistemas 
-- 🚀 Futura desenvolvedora
+- 🚀✨ Desenvolvedora de Software
+- 📚💻 Estudante de Análise e Desenvolvimento de sistemas 
+
 <div>
   <a href="https://github.com/VanessaZanotti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessazanotti&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
