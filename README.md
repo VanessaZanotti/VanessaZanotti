@@ -1,5 +1,4 @@
 ## Oiee! Eu sou a Vanessa Zanotti
-- 🚀✨ Desenvolvedora de Software
 - 📚💻 Estudante de Análise e Desenvolvimento de sistemas 
 - ☕💖 Apaixonada por tecnologia e café
 
