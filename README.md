@@ -14,7 +14,7 @@
   <img align="center" alt="Vani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--<img align="center" alt="Vani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Vani-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">-->
-  <img align="right" alt="Vani-yoda" height="80" width="70" src="https://c.tenor.com/9T9mPweqx5QAAAAM/baby-yoda-wave.gif">
+  <img align="right" alt="Vani-yoda" height="90" width="100" src="https://c.tenor.com/9T9mPweqx5QAAAAM/baby-yoda-wave.gif">
 </div>
   
   ##
