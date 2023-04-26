@@ -1,5 +1,6 @@
 ## Oiee! Eu sou a Vanessa Zanotti
-- 📚 Estudante de Análise e Desenvolvimento de sistemas 
+- 🖥 Desenvolvedora
+- 📚 Estudante de Análise e Desenvolvimento de sistemas (ÚLTIMO SEMESTRE)
 - ☕ Apaixonada por tecnologia e café
   
   ##
