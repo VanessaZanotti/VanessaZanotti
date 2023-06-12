@@ -1,7 +1,13 @@
-## Oiee! Eu sou a Vanessa Zanotti
-- 🖥 Desenvolvedora
-- 📚 Estudante de Análise e Desenvolvimento de sistemas (ÚLTIMO SEMESTRE)
-- ☕ Apaixonada por tecnologia e café
+## Sobre mim
+
+Olá! Eu sou a Vanessa Zanotti.
+
+Sou formada em administração de empresas pela Faculdade Estácio e atualmente estou cursando o último período de Análise e Desenvolvimento de Sistemas na Universidade Senac.
+
+- 🖥 Sou Desenvolvedora Full Stack e trabalho principalmente com C++, JavaScript e SQL Server;
+- 📚 Atualmente estou 100% focada em estudos de JS principalmente Nodejs e Reactjs;
+
+- ☕ Adicional: Nas horas vagas gosto de provar cafés diferentes e ler bons livros. 
   
   ##
  
