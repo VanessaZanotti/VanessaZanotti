@@ -6,8 +6,9 @@ Sou formada em administração de empresas pela Faculdade Estácio e atualmente 
 
 - 🖥 Sou Desenvolvedora Full Stack e trabalho principalmente com C++, JavaScript e SQL Server;
 - 📚 Atualmente estou 100% focada em JavaScript e seus frameworks, principalmente Nodejs e Reactjs;
+- 🧠 Principais tecnologias: JavaScript | Nodejs | React.js | HTML | CSS | Bootstrap | Git & GitHub | SQL Server | MySQL | MongoDB
 
-- ☕ Adicional: Nas horas vagas gosto de provar cafés diferentes e ler bons livros. 
+- ☕ Nas horas vagas gosto de provar cafés diferentes e ler bons livros. 
   
   ##
  
