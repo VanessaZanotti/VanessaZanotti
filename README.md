@@ -24,7 +24,6 @@
 
 </div>
 
----
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -39,8 +38,6 @@
 
 </div>
 
----
-
 ## 🐍 Minhas Contribuições
 
 <div align="center">
@@ -48,8 +45,6 @@
 ![Snake animation](https://github.com/VanessaZanotti/VanessaZanotti/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
 
 <div align="center">
 
